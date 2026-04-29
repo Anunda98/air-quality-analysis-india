@@ -6,11 +6,13 @@ A data analysis project exploring air pollution trends across Indian cities usin
 
 ## Project Overview
 
-This project analyzes air quality trends across Indian cities between 2015 and 2020. The objective is to identify pollution patterns, understand key contributing pollutants, and examine how air quality varies across cities and over time.
+This project analyzes air quality trends across Indian cities to identify key pollution drivers, spatial patterns, and temporal changes.
 
 ---
 
 ## Sample Visualizations
+
+These visualizations highlight key patterns in air quality, including pollutant relationships, city-level pollution levels, and temporal trends.
 
 ### AQI Distribution
 
