@@ -1,21 +1,7 @@
-AIR QUALITY ANALYSIS (INDIA 2015–2020)
+## 🔑 Key Insights
 
-1. Overall Pollution Pattern
-- Most cities fall in Moderate to Poor AQI range.
-- Extreme pollution spikes exist but are less frequent.
-
-2. Most Polluted Cities
-- Certain cities consistently show higher AQI levels.
-- Indicates strong influence of urbanization and industrial activity.
-
-3. Key Pollutants
-- PM2.5 and PM10 show strong correlation with AQI.
-- These are the main drivers of air pollution levels.
-
-4. Temporal Trends
-- AQI varies across years with slight improvements in some periods.
-- No consistent long-term improvement pattern observed.
-
-5. Data Quality Notes
-- Significant missing values in PM10 and AQI columns.
-- Suggests inconsistent monitoring across stations.
+- PM2.5 shows the strongest correlation with AQI, making it the primary driver of air pollution.
+- Several cities consistently record high AQI levels, indicating persistent environmental challenges.
+- AQI distribution is right-skewed, meaning extreme pollution events occur but are less frequent.
+- Yearly trends show fluctuations rather than consistent improvement, suggesting policy impact is uneven.
+- Missing data patterns indicate inconsistencies in monitoring across locations and time.
