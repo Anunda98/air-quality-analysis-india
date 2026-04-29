@@ -1,4 +1,4 @@
-## 🔑 Key Insights
+## Key Insights
 
 - PM2.5 shows the strongest correlation with AQI, making it the primary driver of air pollution.
 - Several cities consistently record high AQI levels, indicating persistent environmental challenges.
