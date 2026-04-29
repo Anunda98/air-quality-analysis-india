@@ -1,7 +1,7 @@
 ## Key Insights
 
 - PM2.5 shows the strongest correlation with AQI, making it the primary driver of air pollution.
-- Several cities consistently record high AQI levels, indicating persistent environmental challenges.
+- Several cities consistently record high AQI levels, indicating persistent environmental pressure.
 - AQI distribution is right-skewed, meaning extreme pollution events occur but are less frequent.
-- Yearly trends show fluctuations rather than consistent improvement, suggesting policy impact is uneven.
-- Missing data patterns indicate inconsistencies in monitoring across locations and time.
+- Yearly trends show fluctuations rather than consistent improvement, suggesting uneven policy impact.
+- Missing data patterns indicate inconsistencies in environmental monitoring across locations.
